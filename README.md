@@ -8,7 +8,7 @@
 [![Follow on Youtube](https://img.shields.io/youtube/channel/views/UCIvOMAYBuLllvPIJp0o-opQ?style=social)](https://www.youtube.com/channel/UCIvOMAYBuLllvPIJp0o-opQ)
 
 
-Tuval framework önbellek kütüphanesi, uygulama önbelleğini depolamak, yüklemek ve temizlemek için basit ve hafif bir kütüphanedir. Bu kütüphane, öğrenmesi ve kullanması kolay olacak şekilde tasarlanmıştır. Bu kütüphane [Appconda ekibi](https://appconda.io) tarafından bakım edilmektedir.
+Tuval framework önbellek kütüphanesi, uygulama önbelleğini depolamak, yüklemek ve temizlemek için basit ve hafif bir kütüphanedir. Bu kütüphane, öğrenmesi ve kullanması kolay olacak şekilde tasarlanmıştır. Bu kütüphane [Appconda ekibi](https://appconda.io) tarafından yazilmakta ve desteklenmektedir.
 
 Bu kütüphane [Tuval Framework](https://github.com/tuvalframework) projesinin bir parçası olmasına rağmen, bağımlılık içermemektedir ve herhangi bir Nodejs projesi veya framework ile bağımsız olarak kullanılabilir.
 

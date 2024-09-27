@@ -9,6 +9,7 @@ echo "Patching"
 npm version patch -m "Upgrade to new version" || { echo "Version update failed"; exit 1; }
 
 cp package.json dist
+cp README.md dist
 cd dist
 
 rm index.js.map

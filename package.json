@@ -1,6 +1,6 @@
 {
     "name": "@tuval/cache",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "",
     "keywords": [],
     "main": "index.js",
@@ -26,9 +26,7 @@
         "node": ">=6.0.0"
     },
     "scripts": {
-        
         "build": "webpack --config webpack.config.js"
-        
     },
     "lint-staged": {
         "{src,test}/**/*.ts": [
@@ -36,7 +34,6 @@
             "git add"
         ]
     },
-    
     "config": {
         "commitizen": {
             "path": "node_modules/cz-conventional-changelog"

@@ -13,13 +13,13 @@
     ],
     "author": "tuvalframework <tuvalframework@gmail.com>",
     "bugs": {
-        "url": "https://github.com/tuvalframework/core/issues"
+        "url": "https://github.com/tuvalframework/cache/issues"
     },
-    "homepage": "http://tuvalframework.com/",
+    "homepage": "http://tuvalframework.com",
     "readmeFilename": "README.md",
     "repository": {
         "type": "git",
-        "url": "git://github.com/tuvalframework/core.git"
+        "url": "git://github.com/tuvalframework/cache.git"
     },
     "license": "MIT",
     "engines": {
